@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceInvader", "SpaceInvader\SpaceInvader.csproj", "{C586342F-1339-491F-9FAF-464AE506EEC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C586342F-1339-491F-9FAF-464AE506EEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C586342F-1339-491F-9FAF-464AE506EEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C586342F-1339-491F-9FAF-464AE506EEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C586342F-1339-491F-9FAF-464AE506EEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
